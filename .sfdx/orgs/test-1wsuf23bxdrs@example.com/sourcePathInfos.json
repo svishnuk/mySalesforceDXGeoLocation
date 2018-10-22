@@ -1,0 +1,218 @@
+[
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208373776,
+            "changeTime": 1540208373776,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208373777,
+            "changeTime": 1540208373777,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896137,
+            "changeTime": 1540208896137,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208373780,
+            "changeTime": 1540208373780,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208886374,
+            "changeTime": 1540208886374,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1540208896096,
+            "changeTime": 1540208896096,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8263,
+            "modifiedTime": 1540208896110,
+            "changeTime": 1540208896110,
+            "contentHash": "57259f9241232ae51082c4d097403d97e8bbb46a"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\profiles\\Trial Customer Portal User.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\profiles\\Trial Customer Portal User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1305,
+            "modifiedTime": 1540208896120,
+            "changeTime": 1540208896120,
+            "contentHash": "f4a0600c6a99b56657d75838ddc9d19d89371d2d"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 16871,
+            "modifiedTime": 1540208896135,
+            "changeTime": 1540208896135,
+            "contentHash": "2fe52f110116a9b272200fc0b57bceb97726f1d7"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets\\GeoLocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets\\GeoLocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1540208896142,
+            "changeTime": 1540208896142,
+            "contentHash": "05d0bec2828862db8c82ca2b87facc013dbba67b"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896095,
+            "changeTime": 1540208896095,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896088,
+            "changeTime": 1540208896088,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896087,
+            "changeTime": 1540208896087,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896109,
+            "changeTime": 1540208896109,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896134,
+            "changeTime": 1540208896134,
+            "contentHash": "6de539e406207a3affb7ad6235c1586239769bb7"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540208896141,
+            "changeTime": 1540208896141,
+            "contentHash": "8b10a2d77671f2e7d312126417769f34ff4f53c8"
+        }
+    ]
+]
